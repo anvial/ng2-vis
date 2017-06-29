@@ -293,7 +293,7 @@ export class VisNetworkService {
    */
   public configChange: EventEmitter<any> = new EventEmitter<any>();
 
-  private networks: {[id: string]: VisNetwork} = {};
+  public networks: {[id: string]: VisNetwork} = {};
 
   /**
    * Creates a new network instance.
