@@ -60,7 +60,7 @@
     "@angular/common": "^2.4.10",
     "@angular/core": "^2.4.10",
     "@angular/compiler": "^2.4.10",
-    "@angular/compiler-cli": "^2.4.10",
+    "@angular/compiler-cli": "^2.4.10"
   },
   "devDependencies": {
     "@angular/common": "^2.4.10",
