@@ -48,7 +48,9 @@
   },
   "dependencies": {
     "vis": "4.20.1",
-    "@types/vis": "4.18.3"
+    "systemjs-builder": "0.16.9",
+    "@types/vis": "4.18.3",
+    "@types/webpack": "3.0.1"
   },
   "peerDependencies": {
     "@angular/common": "^2.4.10",
